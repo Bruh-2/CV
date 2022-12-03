@@ -4,10 +4,7 @@
     overflow: visible;
 }
 
-.extra-info  {
-   
-}
-
-.email {
-    
+.wrapper_main {
+    display: flex;
+    justify-content: space-between;
 }
