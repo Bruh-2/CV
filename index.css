@@ -1,72 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .Introduction {
     width: 300px;
     height: 100px;
     overflow: visible;
-    text-align: center;
 }
-
-.wrapper_main {
-    display: flex;
-    justify-content: space-between;
-}
-
-.header-email1, .header-contact1, .header-Github {
-    text-decoration: none;
-    color: red;
-}
-
-.Saul {
-    width: 220px;
-    height: 300px;
-}
-
-.wrapper_main {
-    background-color: aquamarine;
-    width: 99vw;
-    height: 140vh;
-}
-
-.footer {
-    display: flex;
-    align-items: flex end; 
-    justify-content: center;
-    background-color: purple; 
-    width: 99vw;  
-}
-
-.reason {
-    width: 40px;
-    height: 100px;
-    overflow: visible;
-}
-
-.background, .continuation{
-    display: flex;
-    flex-direction: column;
-    overflow: visible;
-    width: 500px;
-}
-
-.level {
-    margin: 4px 0 16px;
-    padding: 0;
-    height: 14px;
-    font-size: 0;
-    background-color: #080208;
-    border: 1px solid #712073;
-    border-radius: 8px;
-}
-
-.progress {
-    margin: 1px;
-    height: 12px;
-    background-color: #fea18d;
-    border-radius: 6px;
-}
-
-.skills {
-    display:block;
-}
-
-
-
